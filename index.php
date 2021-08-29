@@ -1,7 +1,7 @@
 <?php 
-	require_once('includes/functions.php');
+	require_once("includes/functions.php");
 
-	redirect_to('public/index.php');
+	redirect_to("public/index.php");
 
 
 ?>
